@@ -13,3 +13,4 @@ I hold Bachelor’s degree in Computer Science from Taibah University and a Mast
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 💡 [sentiment analysis](https://github.com/Amani1-1996/sentiment_analysis/blob/main/sentiment-analysis%20.ipynb) | simple sentiment analysis project | A sentiment analysis system for Amazon product reviews using combined TF-IDF and Word2Vec features to classify reviews as positive or negative. | 
+| 💡 [Hotel analysis](https://github.com/Amani1-1996/hotel_analysis/blob/main/Hotel-analysis.ipynb) | Predictive analytics | A machine learning-based system to predict hotel booking cancellations. | 
